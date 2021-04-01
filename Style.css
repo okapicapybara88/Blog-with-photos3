@@ -1,0 +1,33 @@
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+
+body {
+    text-align: center;
+    background-color: teal;
+}
+
+
+h1 {
+    font-size: 35px;
+    text color: palevioletred;
+}
+
+h4 {
+    font-size: 30px;
+    text color: deepskyblue;
+}
+
+
+h3 {
+    text color: cornflowerblue;
+}
+
+<meta name="viewport"content="width=device-width, initial-scale=1" > <style > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
